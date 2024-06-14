@@ -26,7 +26,7 @@ Mountfood é um aplicativo de simulação de catálogo de produtos para uma hamb
 
    ```bash
    git clone https://github.com/ruan-webdev/mountfood-teste-tecnico.git
-   cd mountfood
+   cd mountfood-teste-tecnico
    ```
 
 2. **Instale as dependências:**
